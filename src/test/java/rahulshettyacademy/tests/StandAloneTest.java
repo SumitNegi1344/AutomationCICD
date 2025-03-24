@@ -16,7 +16,7 @@ import rahulshettyacademy.pageobjects.LandingPage;
 
 public class StandAloneTest {
 	public static void main(String[] args) {
-
+	//new Comments are added
 		// Setup WebDriver
 		String productName = "IPHONE 13 PRO";
 		WebDriverManager.chromedriver().setup();
